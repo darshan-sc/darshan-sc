@@ -1,4 +1,4 @@
-👋 Hi, I'm Darshan Chudiwal, a backend-focused software engineer currently pursuing my Master’s in Computer Science at Penn State. I enjoy building robust systems, experimenting with AI, and solving real-world problems with code.
+👋 Hi, I'm Darshan Chudiwal, a software engineer currently pursuing my Master’s in Computer Science at Penn State. I enjoy building robust systems, experimenting with AI, and solving real-world problems with code.
 
 📫 Always open to collaboration or conversation — feel free to reach out to me at darshanjainc@gmail.com or message me on [linkedin](https://www.linkedin.com/in/darshan-se/)!
 <!--
