@@ -1,4 +1,4 @@
-👋 Hi, I'm Darshan, a software engineer currently pursuing my Master’s in Computer Science at Penn State. I enjoy building robust systems, experimenting with AI, and solving real-world problems with code.
+👋 Hi, I'm Darshan. I’ve spent 2+ years building software that handles real stakes — payment workflows, fraud systems, and product interfaces people rely on daily. I work across the stack, care about writing software that holds up under pressure, and I’m currently pursuing my MS in Computer Science at Penn State.
 
 📫 Always open to collaboration or conversation — feel free to reach out to me at darshanjainc@gmail.com or message me on [linkedin](https://www.linkedin.com/in/darshan-se/)!
 <!--
